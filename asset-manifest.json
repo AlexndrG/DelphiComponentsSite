@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DelphiComponentsSite/static/css/main.a9ae1c77.chunk.css",
-    "main.js": "/DelphiComponentsSite/static/js/main.fba2d0e3.chunk.js",
-    "main.js.map": "/DelphiComponentsSite/static/js/main.fba2d0e3.chunk.js.map",
+    "main.css": "/DelphiComponentsSite/static/css/main.61d9199d.chunk.css",
+    "main.js": "/DelphiComponentsSite/static/js/main.74346cc9.chunk.js",
+    "main.js.map": "/DelphiComponentsSite/static/js/main.74346cc9.chunk.js.map",
     "runtime-main.js": "/DelphiComponentsSite/static/js/runtime-main.91d3b426.js",
     "runtime-main.js.map": "/DelphiComponentsSite/static/js/runtime-main.91d3b426.js.map",
-    "static/js/2.7ca7589f.chunk.js": "/DelphiComponentsSite/static/js/2.7ca7589f.chunk.js",
-    "static/js/2.7ca7589f.chunk.js.map": "/DelphiComponentsSite/static/js/2.7ca7589f.chunk.js.map",
+    "static/js/2.1f645d32.chunk.js": "/DelphiComponentsSite/static/js/2.1f645d32.chunk.js",
+    "static/js/2.1f645d32.chunk.js.map": "/DelphiComponentsSite/static/js/2.1f645d32.chunk.js.map",
     "index.html": "/DelphiComponentsSite/index.html",
-    "static/css/main.a9ae1c77.chunk.css.map": "/DelphiComponentsSite/static/css/main.a9ae1c77.chunk.css.map",
-    "static/js/2.7ca7589f.chunk.js.LICENSE.txt": "/DelphiComponentsSite/static/js/2.7ca7589f.chunk.js.LICENSE.txt"
+    "static/css/main.61d9199d.chunk.css.map": "/DelphiComponentsSite/static/css/main.61d9199d.chunk.css.map",
+    "static/js/2.1f645d32.chunk.js.LICENSE.txt": "/DelphiComponentsSite/static/js/2.1f645d32.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91d3b426.js",
-    "static/js/2.7ca7589f.chunk.js",
-    "static/css/main.a9ae1c77.chunk.css",
-    "static/js/main.fba2d0e3.chunk.js"
+    "static/js/2.1f645d32.chunk.js",
+    "static/css/main.61d9199d.chunk.css",
+    "static/js/main.74346cc9.chunk.js"
   ]
 }
